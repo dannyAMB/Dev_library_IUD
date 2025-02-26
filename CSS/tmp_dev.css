@@ -9,15 +9,16 @@
 }
 .IUD_banner_creditos .IUD_title_creditos {
    
-    color: #f1b53b;
-    margin: auto;
+padding: px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: 0;
 }
 
-.IUD_banner_creditos .IUD_title_creditos p {
+.IUD_banner_creditos .IUD_title_creditos p{
     font-size: 1.5rem; 
-   
     text-align: left;
-    margin-left: 5px; 
     color: #f1b53b;
 }
 
