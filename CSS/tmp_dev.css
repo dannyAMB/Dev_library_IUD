@@ -1,0 +1,24 @@
+/* banner creditos */
+.IUD_banner_creditos {
+    background-color: #023d59; 
+ 
+    padding: 5px;
+
+
+
+}
+.IUD_banner_creditos .IUD_title_creditos {
+   
+    color: #f1b53b;
+    margin: auto;
+}
+
+.IUD_banner_creditos .IUD_title_creditos p {
+    font-size: 1.5rem; 
+   
+    text-align: left;
+    margin-left: 5px; 
+    color: #f1b53b;
+}
+
+/* Fin banner creditos */
