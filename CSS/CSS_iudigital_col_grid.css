@@ -3,9 +3,12 @@
 {
     box-sizing: border-box;
 
-
 }
 
+body{
+    max-width: 100%;
+ margin: auto;
+}
 .IUD_img_float_container img{
 
 
@@ -55,11 +58,11 @@ height: 120px;
 }
 .IUD_container_azul_2019{
 
-
+display: block;
     
-  
-    
-  max-width: 900px;
+    width: 100%;
+    margin: auto;
+    height: 100%;
     
 }
 
